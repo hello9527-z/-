@@ -1,0 +1,12 @@
+/* global */
+html,body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,p,blockquote{margin:0px;padding:0px;}
+fieldset,img{border:0px;}
+address,caption,cite,code,dfn,em,th,var{font-style:normal;font-weight:normal;}
+ul,ol,dl,li,dt,dd{list-style:none;}
+h1,h2,h3,h4,h5,h6{font-size:100%;}
+a {
+    text-decoration:none;
+    color: black;
+}
+a:hover { text-decoration:none;}
+
